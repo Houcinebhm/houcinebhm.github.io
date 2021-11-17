@@ -1,0 +1,19 @@
+.button{
+    background-color:#1C6EA4;
+    color: #000000;
+    padding:1rem;
+    text-decoration:none;
+    display:inline-block;
+    border-radius:3rem;
+margin-top: 15% ;}
+
+.body{background: #FFFFFF;
+background: -moz-radial-gradient(center, #FFFFFF 0%, #CBCBCB 50%, #757575 100%);
+background: -webkit-radial-gradient(center, #FFFFFF 0%, #CBCBCB 50%, #757575 100%);
+background: radial-gradient(ellipse at center, #FFFFFF 0%, #CBCBCB 50%, #757575 100%);
+
+}
+
+
+#tel{border: 7px groove #1C6EA4;}
+

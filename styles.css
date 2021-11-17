@@ -1,0 +1,42 @@
+body {
+
+}
+.test {
+	text-shadow: 2px 1px 3px #3049D5;
+	margin-left: 17%;
+	margin-right: 30%;
+	margin-bottom: 10%;
+}
+h2 { 
+    color: darkblue;
+	text-shadow: 2px 1px 3px #3049D5;
+	margin-left: 1%
+}
+.ok { background: #FFFFFF;
+background: -moz-linear-gradient(45deg, #FFFFFF 0%, #AAAAAA 50%, #FFFFFF 100%);
+background: -webkit-linear-gradient(45deg, #FFFFFF 0%, #AAAAAA 50%, #FFFFFF 100%);
+background: linear-gradient(45deg, #FFFFFF 0%, #AAAAAA 50%, #FFFFFF 100%);
+border: 7px groove #1C6EA4;
+	margin-top: 1%!important;
+	margin-right: 2%;
+
+
+}
+a {
+color: black!important;}
+
+.photo{border: 7px groove #1C6EA4;
+}
+
+.button{
+    background-color:#1C6EA4;
+    color: #000000;
+    padding:1rem;
+    text-decoration:none;
+    display:inline-block;
+    border-radius:3rem;
+    margin-top: 15% ;
+
+}
+
+

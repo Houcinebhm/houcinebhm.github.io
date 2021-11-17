@@ -1,0 +1,33 @@
+
+.body{
+	background-color: #DCDCDC;
+}
+
+h1{color:  #DCDCDC ;}
+header{background-color: #1C6EA4}
+
+#tel{height:300px;
+width: 300px;
+border: 7px groove #1C6EA4;
+-webkit-box-shadow: 5px 5px 15px 5px #000000; 
+box-shadow: 5px 5px 15px 5px #000000;
+margin-top: 4%
+}
+
+.button{
+    background-color:#1C6EA4;
+    color: #000000;
+    padding:1rem;
+    text-decoration:none;
+    display:inline-block;
+    border-radius:3rem;
+    margin-top: 15% ;
+
+}
+h2{color: darkblue;
+text-shadow: 2px 1px 3px #3049D5;}
+
+body{background: #B3B3B3;
+background: -moz-linear-gradient(left, #B3B3B3 0%, #F1F1F1 21%, #B3B3B3 100%);
+background: -webkit-linear-gradient(left, #B3B3B3 0%, #F1F1F1 21%, #B3B3B3 100%);
+background: linear-gradient(to right, #B3B3B3 0%, #F1F1F1 21%, #B3B3B3 100%);

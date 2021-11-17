@@ -1,0 +1,35 @@
+.button{
+    background-color:#1C6EA4;
+    color: #000000;
+    padding:1rem;
+    text-decoration:none;
+    display:inline-block;
+    border-radius:3rem;
+    margin-top: 15% ;
+
+}
+.ok { background: #FFFFFF;
+background: -moz-linear-gradient(45deg, #FFFFFF 0%, #AAAAAA 50%, #FFFFFF 100%);
+background: -webkit-linear-gradient(45deg, #FFFFFF 0%, #AAAAAA 50%, #FFFFFF 100%);
+background: linear-gradient(45deg, #FFFFFF 0%, #AAAAAA 50%, #FFFFFF 100%);
+border: 7px groove #1C6EA4;
+	margin-top: 10%!important;
+margin-right: 6%;}
+	
+	
+h2 { 
+    color: darkblue;
+	text-shadow: 2px 1px 3px #3049D5;
+	margin-left: 1%
+}
+h1 { 
+    color: darkblue;
+	text-shadow: 2px 1px 3px #3049D5;
+	margin-left: 1%
+}
+.body{border: 8px double #1C6EA4;
+background: #F1F1F1;
+background: -moz-linear-gradient(top, #F1F1F1 0%, #9C9C9C 49%, #F1F1F1 100%);
+background: -webkit-linear-gradient(top, #F1F1F1 0%, #9C9C9C 49%, #F1F1F1 100%);
+background: linear-gradient(to bottom, #F1F1F1 0%, #9C9C9C 49%, #F1F1F1 100%);
+}
